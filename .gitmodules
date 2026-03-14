@@ -5,6 +5,21 @@
 [submodule "ardlverse"]
 	path = ardlverse
 	url = https://github.com/muhammedalkhalaf/ardlverse
+[submodule "caustests"]
+	path = caustests
+	url = https://github.com/muhammedalkhalaf/caustests
+[submodule "hatemicoint"]
+	path = hatemicoint
+	url = https://github.com/muhammedalkhalaf/hatemicoint
+[submodule "qardlr"]
+	path = qardlr
+	url = https://github.com/muhammedalkhalaf/qardlr
+[submodule "xtbhst"]
+	path = xtbhst
+	url = https://github.com/muhammedalkhalaf/xtbhst
+[submodule "xtcspqardl"]
+	path = xtcspqardl
+	url = https://github.com/muhammedalkhalaf/xtcspqardl
 [submodule "xtdhcoint"]
 	path = xtdhcoint
 	url = https://github.com/muhammedalkhalaf/xtdhcoint
