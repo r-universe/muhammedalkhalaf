@@ -8,6 +8,9 @@
 [submodule "caustests"]
 	path = caustests
 	url = https://github.com/muhammedalkhalaf/caustests
+[submodule "fbardl"]
+	path = fbardl
+	url = https://github.com/cran/fbardl
 [submodule "hatemicoint"]
 	path = hatemicoint
 	url = https://github.com/muhammedalkhalaf/hatemicoint
@@ -23,3 +26,6 @@
 [submodule "xtdhcoint"]
 	path = xtdhcoint
 	url = https://github.com/muhammedalkhalaf/xtdhcoint
+[submodule "xtpqardl"]
+	path = xtpqardl
+	url = https://github.com/muhammedalkhalaf/xtpqardl
