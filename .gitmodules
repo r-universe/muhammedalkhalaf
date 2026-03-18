@@ -13,7 +13,10 @@
 	url = https://github.com/muhammedalkhalaf/caustests
 [submodule "fbardl"]
 	path = fbardl
-	url = https://github.com/cran/fbardl
+	url = https://github.com/muhammedalkhalaf/fbardl
+[submodule "fqardl"]
+	path = fqardl
+	url = https://github.com/muhammedalkhalaf/fqardl
 [submodule "hatemicoint"]
 	path = hatemicoint
 	url = https://github.com/muhammedalkhalaf/hatemicoint
