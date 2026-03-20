@@ -11,6 +11,9 @@
 [submodule "caustests"]
 	path = caustests
 	url = https://github.com/muhammedalkhalaf/caustests
+[submodule "cointsmall"]
+	path = cointsmall
+	url = https://github.com/muhammedalkhalaf/cointsmall
 [submodule "fbardl"]
 	path = fbardl
 	url = https://github.com/muhammedalkhalaf/fbardl
