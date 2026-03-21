@@ -26,6 +26,9 @@
 [submodule "mvardlurt"]
 	path = mvardlurt
 	url = https://github.com/muhammedalkhalaf/mvardlurt
+[submodule "qadf"]
+	path = qadf
+	url = https://github.com/muhammedalkhalaf/qadf
 [submodule "qardlr"]
 	path = qardlr
 	url = https://github.com/muhammedalkhalaf/qardlr
