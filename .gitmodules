@@ -11,6 +11,9 @@
 [submodule "caustests"]
 	path = caustests
 	url = https://github.com/muhammedalkhalaf/caustests
+[submodule "cointests"]
+	path = cointests
+	url = https://github.com/muhammedalkhalaf/cointests
 [submodule "cointsmall"]
 	path = cointsmall
 	url = https://github.com/muhammedalkhalaf/cointsmall
@@ -32,6 +35,9 @@
 [submodule "qardlr"]
 	path = qardlr
 	url = https://github.com/muhammedalkhalaf/qardlr
+[submodule "unitrootests"]
+	path = unitrootests
+	url = https://github.com/muhammedalkhalaf/unitrootests
 [submodule "xtbhst"]
 	path = xtbhst
 	url = https://github.com/muhammedalkhalaf/xtbhst
