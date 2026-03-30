@@ -53,3 +53,6 @@
 [submodule "xtpqardl"]
 	path = xtpqardl
 	url = https://github.com/muhammedalkhalaf/xtpqardl
+[submodule "xtrec"]
+	path = xtrec
+	url = https://github.com/muhammedalkhalaf/xtrec
