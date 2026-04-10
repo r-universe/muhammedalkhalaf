@@ -38,6 +38,12 @@
 [submodule "qardlr"]
 	path = qardlr
 	url = https://github.com/muhammedalkhalaf/qardlr
+[submodule "rbfmvar"]
+	path = rbfmvar
+	url = https://github.com/muhammedalkhalaf/rbfmvar
+[submodule "tptest"]
+	path = tptest
+	url = https://github.com/muhammedalkhalaf/tptest
 [submodule "unitrootests"]
 	path = unitrootests
 	url = https://github.com/muhammedalkhalaf/unitrootests
