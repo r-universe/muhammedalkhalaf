@@ -59,6 +59,9 @@
 [submodule "xtdhcoint"]
 	path = xtdhcoint
 	url = https://github.com/muhammedalkhalaf/xtdhcoint
+[submodule "xtfifevd"]
+	path = xtfifevd
+	url = https://github.com/muhammedalkhalaf/xtfifevd
 [submodule "xtpqardl"]
 	path = xtpqardl
 	url = https://github.com/muhammedalkhalaf/xtpqardl
