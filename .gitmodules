@@ -32,6 +32,9 @@
 [submodule "mvardlurt"]
 	path = mvardlurt
 	url = https://github.com/muhammedalkhalaf/mvardlurt
+[submodule "paneltests"]
+	path = paneltests
+	url = https://github.com/cran/paneltests
 [submodule "qadf"]
 	path = qadf
 	url = https://github.com/muhammedalkhalaf/qadf
