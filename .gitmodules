@@ -7,7 +7,7 @@
 	url = https://github.com/muhammedalkhalaf/svartca
 [submodule "ardlverse"]
 	path = ardlverse
-	url = https://github.com/cran/ardlverse
+	url = https://github.com/muhammedalkhalaf/ardlverse
 [submodule "boundedur"]
 	path = boundedur
 	url = https://github.com/muhammedalkhalaf/boundedur
